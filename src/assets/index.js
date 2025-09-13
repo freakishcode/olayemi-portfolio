@@ -3,19 +3,13 @@ import mathwork from "./company/mathwork.png";
 import edunet from "./company/edunet.png";
 import eduskill from "./company/eduskill.png";
 
-// Import tech stack images
-import python from "./tech-stack/python.png";
-import c from "./tech-stack/c.png";
-import cpp from "./tech-stack/cpp.png";
-import java from "./tech-stack/java.png";
-
 // Import project images
-import weatherpedia from "./projects/WeatherPedia.png";
-import termpw from "./projects/termpw.png";
-import payloadmaster from "./projects/payloadmaster.png";
-import mhft from "./projects/mhft.png";
-import sketcher from "./projects/sketcher.png";
-import CompileVortex from "./projects/CompileVortex.png";
+import weatherpedia from "./projects/weatherApi.png";
+import portfolio from "./projects/portFolio.png";
+import crud from "./projects/CRUD-thumbnail.png";
+import md from "./projects/medical-website-thumbnail.png";
+import NEWSApi from "./projects/NEWApi.png";
+import MovieTrailer from "./projects/movieTrailer.png";
 
 // Import tech logos
 import css from "./tech/css.png";
@@ -31,7 +25,7 @@ import typescript from "./tech/typescript.png";
 import mysql from "./tech/mysql.svg";
 
 // Import common assets
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -39,10 +33,6 @@ import close from "./close.svg";
 export {
   mathwork,
   edunet,
-  python,
-  c,
-  cpp,
-  java,
   github,
   css,
   git,
@@ -53,11 +43,11 @@ export {
   tailwind,
   threejs,
   weatherpedia,
-  termpw,
-  payloadmaster,
-  mhft,
-  sketcher,
-  CompileVortex,
+  portfolio,
+  crud,
+  md,
+  NEWSApi,
+  MovieTrailer,
   logo,
   menu,
   close,
